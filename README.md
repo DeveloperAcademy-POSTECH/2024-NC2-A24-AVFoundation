@@ -2,22 +2,23 @@
 ## 🎥 Youtube Link
 (추후 만들어진 유튜브 링크 추가)
 
-## 💡 About Augmented Reality
-(해당 기술에 대한 조사 내용 정리)
-
-> **예시** <br/><br/>
-_(내용 중략) <br/>
-ARKit에서 ARSCNView가 있다는 것을 알게 되었고, ARSCNView에서는 SceneKit을 활용하여 3D 콘텐츠를 증강하여 추가할 수 있다는 것을 알게 되었다. <br/>
-(내용 중략)_
+## 💡 About AVFoundation
+AVFoundation은 iOS, tvOS, macOS를 위한 미디어 프레임 워크로
+미디어 편집, 재생 및 low-level 처리 등 다양한 미디어 처리 작업에 쓰이고
+크게는 비디오, 오디오, 애니메이션에 사용됩니다.
 
 ## 🎯 What we focus on?
-> **예시** <br/> ARKit에서 ARSCNView를 활용하고, SCNText를 사용하여 쉽게 3D 텍스트를 생성하고 SCNAction을 통해 쉽게 에니메이션을 추가한다.
+AVFoundation을 접해본 경험이 많이 없고 러닝커브가 있을 것으로 예상됩니다.
+따라서, 미디어에서 기본적이라고 할 수 있는 비디오 촬영과 재생에 집중하기 위해서
+기본적인 기능을 우선적으로 이용해보기로 했습니다.
+이후 커스텀 플레이어와 커스텀 카메라 구현을 목표로 합니다.
 
 ## 💼 Use Case
-> **예시** <br/> 내 친구의 닉네임을 친구의 머리 위에 3D로 띄우고, 인터렉션하여 탭 할 때 움직이게 할 수 있다.
+추억을 짧은 영상으로
+남기고 손쉽게 넘겨보자!
 
 ## 🖼️ Prototype
-(프로토타입과 설명 추가)
+<img width="1725" alt="image" src="https://github.com/DeveloperAcademy-POSTECH/2024-NC2-A24-AVFoundation/assets/94160933/f1ad5730-19f7-42d8-8395-04858116bd7f">
 
 ## 🛠️ About Code
 (핵심 코드에 대한 설명 추가)
