@@ -18,8 +18,21 @@ AVFoundation을 접해본 경험이 많이 없고 러닝커브가 있을 것으�
 남기고 손쉽게 넘겨보자!
 
 ## 🖼️ Prototype
-<img width="1725" alt="image" src="https://github.com/DeveloperAcademy-POSTECH/2024-NC2-A24-AVFoundation/assets/94160933/e8484532-65f2-4698-819b-56012cdbb8d6">
-
+<img width="647" alt="스크린샷 2024-06-21 오전 1 57 17" src="https://github.com/DeveloperAcademy-POSTECH/2024-NC2-A24-AVFoundation/assets/94160933/816bc8d3-81ae-44c8-8ffb-8654d854a8e8">
 
 ## 🛠️ About Code
-(핵심 코드에 대한 설명 추가)
+<img width="594" alt="스크린샷 2024-06-21 오전 1 57 43" src="https://github.com/DeveloperAcademy-POSTECH/2024-NC2-A24-AVFoundation/assets/94160933/b0947dea-f731-49cc-9132-7e6f1b7596a5">
+<img width="691" alt="스크린샷 2024-06-21 오전 1 57 54" src="https://github.com/DeveloperAcademy-POSTECH/2024-NC2-A24-AVFoundation/assets/94160933/789e796b-070e-4d1d-930a-1e8caac8834d">
+<img width="689" alt="스크린샷 2024-06-21 오전 1 58 07" src="https://github.com/DeveloperAcademy-POSTECH/2024-NC2-A24-AVFoundation/assets/94160933/b1579f71-529e-4254-af81-ac9184104605">
+<img width="663" alt="스크린샷 2024-06-21 오전 1 58 17" src="https://github.com/DeveloperAcademy-POSTECH/2024-NC2-A24-AVFoundation/assets/94160933/73aed589-b911-4f54-9618-d786c4261c59">
+
+<img width="453" alt="스크린샷 2024-06-21 오전 1 58 30" src="https://github.com/DeveloperAcademy-POSTECH/2024-NC2-A24-AVFoundation/assets/94160933/4dba6465-553e-42a7-af99-435f24465186">
+<img width="570" alt="스크린샷 2024-06-21 오전 1 58 38" src="https://github.com/DeveloperAcademy-POSTECH/2024-NC2-A24-AVFoundation/assets/94160933/acd4af34-638a-4158-abd9-0583427c3674">
+<img width="484" alt="스크린샷 2024-06-21 오전 1 58 47" src="https://github.com/DeveloperAcademy-POSTECH/2024-NC2-A24-AVFoundation/assets/94160933/6bed65e2-fbd6-4feb-ab79-fb74fe42325d">
+
+
+
+
+
+
+
