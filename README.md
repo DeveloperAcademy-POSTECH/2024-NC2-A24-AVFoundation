@@ -18,6 +18,7 @@ AVFoundation을 접해본 경험이 많이 없고 러닝커브가 있을 것으�
 남기고 손쉽게 넘겨보자!
 
 ## 🖼️ Prototype
+<img width="1725" alt="image" src="https://github.com/DeveloperAcademy-POSTECH/2024-NC2-A24-AVFoundation/assets/94160933/e8484532-65f2-4698-819b-56012cdbb8d6">
 
 
 ## 🛠️ About Code
